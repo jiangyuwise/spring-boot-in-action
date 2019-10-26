@@ -1,0 +1,11 @@
+spring:
+  thymeleft:
+    cache: false
+
+#server:
+#  port: 8443
+#  ssl:
+#    key-store-type: PKCS12
+#    key-store: classpath:ssl/app
+#    key-store-password: 123456
+#    key-alias: tomcat
